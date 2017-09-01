@@ -1,0 +1,9 @@
+---
+title: Testing Netlify
+author: Amber Thomas
+date: '2017-08-31'
+slug: testing-netlify
+categories: []
+tags: []
+---
+
